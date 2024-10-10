@@ -31,8 +31,6 @@ This project is an interactive visualization of Fourier series using Python, Num
    ```bash
    pip install -r requirements.txt
 
-6. Run the application:
-   ```bash
-    fourier.py
+5. Open the folder in Visual Studio Code and run the python file
 
 
