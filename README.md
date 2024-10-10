@@ -22,3 +22,14 @@ This project is an interactive visualization of Fourier series using Python, Num
 1. Clone the repository:
    ```bash
    git clone https://github.com/mihaid11/FourierSeriesVisualizer.git
+
+2. Change into the project directory:
+    cd FourierSeriesVisualizer
+
+3. Install the required packages:
+   pip install -r requirements.txt
+
+4. Run the application:
+    python fourier.py
+
+
