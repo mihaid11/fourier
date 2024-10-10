@@ -21,7 +21,7 @@ This project is an interactive visualization of Fourier series using Python, Num
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/mihaid11/FourierSeriesVisualizer.git
+   git clone https://github.com/mihaid11/fourier.git
 
 2. Change into the project directory:
    ```bash
