@@ -25,7 +25,7 @@ This project is an interactive visualization of Fourier series using Python, Num
 
 2. Change into the project directory:
    ```bash
-    cd FourierSeriesVisualizer
+    cd fourier
 
 4. Install the required packages:
    ```bash
@@ -33,6 +33,6 @@ This project is an interactive visualization of Fourier series using Python, Num
 
 6. Run the application:
    ```bash
-    python fourier.py
+    fourier.py
 
 
