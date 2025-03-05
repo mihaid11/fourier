@@ -30,14 +30,17 @@ This project is an interactive visualization of Fourier series using Python, Num
 3. Create a virtual environment and activate it:
    ```bash
    python3 -m venv venv
+   ```
 
    On macOS/Linux:
    ```bash
    source venv/bin/activate
+   ```
 
    On Windows:
    ```bash
    venv\Scripts\activate
+   ```
 
 4. Install the required packages:
    ```bash
