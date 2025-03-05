@@ -27,10 +27,22 @@ This project is an interactive visualization of Fourier series using Python, Num
    ```bash
     cd fourier
 
+3. Create a virtual environment and activate it:
+   ```bash
+   python3 -m venv venv
+
+   On macOS/Linux:
+   ```bash
+   source venv/bin/activate
+
+   On Windows:
+   ```bash
+   venv\Scripts\activate
+
 4. Install the required packages:
    ```bash
    pip install -r requirements.txt
 
-5. Open the folder in Visual Studio Code and run the python file
-
-
+5. Run the project:
+   ```bash
+   python3 fourier.py
